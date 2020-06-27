@@ -5,6 +5,7 @@ Analyzed Citi Bike trip and demographic data for the period January 2018 to May 
 - Dashboard 1: Summary of trip counts by month, day, year, and subscribers vs non-subscribers
 - Dashboard 2: Citi Bike usage by age and station
 - Maps: animated by month and year to show the most popular start and end stations<br>
+- Insights: can be found in [Citi Bike Insights.docx](https://github.com/VL14/citibike/blob/master/Citi%20Bike%20Insights.docx)
 ## Tools Used:
 Python, Tableau<br>
 ## Data Source:
